@@ -1,4 +1,4 @@
-#Creo mi grafo con los nodos ya mencionados en el documento.
+#Creo mi grafo con los nodos ya mencionados en el documento. EASTER EGG
 grafo = {
     'AGU' : ['JAL', 'ZAC'],
     'BCN' : ['BCS', 'SON'],
